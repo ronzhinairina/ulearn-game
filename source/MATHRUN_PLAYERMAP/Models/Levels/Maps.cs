@@ -17,6 +17,13 @@ WWWWWWWWWWWWW
              
              "
 ,
+          @"
+WWWWWWWWWWW
+WF   P...MW
+WWWWWWWWWWW
+           
+           "
+,
 
             @"
 WWWWWWWWWWWWWW
